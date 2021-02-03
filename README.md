@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Raphipod!
 
 + Teenage self-taught tinkerer/developer
-+ Linux-Nerd
++ Linux-Nerd (obsessed with shell scripts)
 + living in Bavaria (Germany)
 
 ###
