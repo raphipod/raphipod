@@ -21,7 +21,7 @@ Programming languages:
 - C#, TS/JS, GDScript (Godot Engine's script language)
 
 currently learning:
-- C and Rust
+- C and Rust (mainly system programming languages)
 
 ### Operating systems used:
 - Windows: XP & 7 & 10
