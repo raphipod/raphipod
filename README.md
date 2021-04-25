@@ -13,6 +13,7 @@
 </a>
 
 ### Software Stack & preferred languages:
+_________________________________________
 IDE's:
 - VSCodium
 - Visual Studio
@@ -24,5 +25,6 @@ currently learning:
 - C and Rust (mainly system programming languages)
 
 ### Operating systems used:
+_________________________________________
 - Windows: XP & 7 & 10
 - Linux (Main PC: Manjaro KDE 21.02, Laptop: Ubuntu 20.04.2 LTS)
