@@ -12,6 +12,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphipod&layout=compact&langs_count=8&theme=onedark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=595E5D" />
 </a>
 
+https://skyline.github.com/api/contributions?username=raphipod&year=2021
+
 ### Software Stack & preferred languages:
 _________________________________________
 IDE's:
