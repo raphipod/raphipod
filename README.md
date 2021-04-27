@@ -15,6 +15,7 @@
 ### Software Stack & preferred languages:
 _________________________________________
 IDE's:
+
 - VSCodium
 - Visual Studio
 
@@ -26,5 +27,6 @@ currently learning:
 
 ### Operating systems used:
 _________________________________________
-- Windows: XP & 7 & 10
-- Linux (Main PC: Manjaro KDE 21.02, Laptop: Ubuntu 20.04.2 LTS)
+- Windows > XP & 7 & 10
+- a bit of MacOS, mainly 10.6 & 10.14
+- Linux > Main PC: Pop!_OS 20.04, Laptop: Ubuntu 20.04.2 LTS)
