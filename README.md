@@ -12,6 +12,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphipod&layout=compact&langs_count=8&theme=onedark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=595E5D" />
 </a>
 
+### Contributed to:
+
+- pop-os/popsicle (German translation)
+- xraymemory/bookstory-en (German translation of Game strings)
+
 ### Software Stack & preferred languages:
 _________________________________________
 IDE's:
