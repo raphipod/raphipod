@@ -34,4 +34,4 @@ currently learning:
 _________________________________________
 - Windows > XP & 7 & 10
 - a bit of MacOS, mainly 10.6 & 10.14
-- Linux > Main PC: Pop!_OS 20.10, Laptop: Pop!_OS 20.10
+- Linux > Main PC: Pop!_OS 20.10 / W10, Laptop: Pop!_OS 20.10
