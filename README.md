@@ -25,7 +25,13 @@ IDE's:
 - Visual Studio
 
 Programming languages:
-- C#, TS/JS, GDScript (Godot Engine's script language)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" title="C#">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" title="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" title="TypeScript">
+  <img src="https://godotengine.org/themes/godotengine/assets/press/icon_monochrome_dark.png" width="48" title="GDScript (Godot Engine)">
+</p> 
 
 currently learning:
 - C and Rust (mainly system programming languages)
