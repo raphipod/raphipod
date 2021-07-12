@@ -17,7 +17,7 @@
 - pop-os/popsicle (German translation)
 - xraymemory/bookstory-en (German translation of Game strings)
 
-### Software Stack & preferred languages:
+### 🧰  Software Stack & preferred languages:
 _________________________________________
 IDE's:
 
@@ -30,7 +30,7 @@ Programming languages:
 currently learning:
 - C and Rust (mainly system programming languages)
 
-### Operating systems used:
+### 🖥️ Operating systems used:
 _________________________________________
 - Windows > XP & 7 & 10
 - a bit of MacOS, mainly 10.6 & 10.14
