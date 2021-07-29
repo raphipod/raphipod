@@ -5,6 +5,8 @@
 + Also likes Visual Studio C# / VSCode(-ium)
 + living in Bavaria (Germany)
 
+<img align="right" src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif"/>
+
 <a href="https://github.com/raphipod">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raphipod&count_private=true&show_icons=true&theme=onedark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=595E5D" />
 </a>
@@ -34,10 +36,13 @@ Programming languages:
 </p> 
 
 currently learning:
-- C and Rust (mainly system programming languages)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" width="48" title="C">
 
 ### 🖥️ Operating systems used:
 _________________________________________
 - Windows > XP & 7 & 10
 - a bit of MacOS, mainly 10.6 & 10.14
-- Linux > Main PC: Pop!_OS 21.04, Laptop: Kubuntu 21.04
+
+Currently using: Pop!_OS 21.04 & Kubuntu 21.04
