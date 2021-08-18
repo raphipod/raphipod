@@ -45,4 +45,4 @@ _________________________________________
 - Windows > XP & 7 & 10
 - a bit of MacOS, mainly 10.6 & 10.14
 
-Currently using: Manjaro 21.1 & Pop!_OS 21.04
+Currently using: Manjaro KDE 21.1 & Pop!_OS 21.04
