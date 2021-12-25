@@ -45,4 +45,4 @@ _________________________________________
 - Windows > XP & 7 & 10
 - a bit of MacOS, mainly 10.6 & 10.14
 
-Currently using: Pop!_OS 20.04
+Currently using: Arch Linux
