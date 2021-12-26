@@ -16,8 +16,9 @@
 
 ### Contributed to:
 
-- pop-os/popsicle (German translation)
-- xraymemory/bookstory-en (German translation of Game strings)
+- (pop-os/popsicle)[https://github.com/pop-os/popsicle] (German translation)
+- (pop-os/desktop-widget)[https://github.com/pop-os/desktop-widget] (German translation)
+- (xraymemory/bookstory-en)[https://github.com/xraymemory/bookstory-en] (German translation of Game strings)
 
 ### 🧰  Software Stack & preferred languages:
 _________________________________________
@@ -45,4 +46,4 @@ _________________________________________
 - Windows > XP & 7 & 10
 - a bit of MacOS, mainly 10.6 & 10.14
 
-Currently using: Arch Linux
+Currently using: Pop!_OS 21.10
