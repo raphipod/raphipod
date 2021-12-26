@@ -16,9 +16,9 @@
 
 ### Contributed to:
 
-- (pop-os/popsicle)[https://github.com/pop-os/popsicle] (German translation)
-- (pop-os/desktop-widget)[https://github.com/pop-os/desktop-widget] (German translation)
-- (xraymemory/bookstory-en)[https://github.com/xraymemory/bookstory-en] (German translation of Game strings)
+- [pop-os/popsicle](https://github.com/pop-os/popsicle) (German translation)
+- [pop-os/desktop-widget](https://github.com/pop-os/desktop-widget) (German translation)
+- [xraymemory/bookstory-en](https://github.com/xraymemory/bookstory-en) (German translation of Game strings)
 
 ### 🧰  Software Stack & preferred languages:
 _________________________________________
