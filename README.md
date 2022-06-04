@@ -46,4 +46,4 @@ _________________________________________
 - Windows > XP & 7 & 10
 - a bit of MacOS, mainly 10.6 & 10.14
 
-Currently using: Pop!_OS 21.10
+Currently using: Win11 Debloated & Garuda GNOME
