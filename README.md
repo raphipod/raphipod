@@ -20,6 +20,7 @@
 - [pop-os/popsicle](https://github.com/pop-os/popsicle) (German translation)
 - [pop-os/desktop-widget](https://github.com/pop-os/desktop-widget) (German translation)
 - [xraymemory/bookstory-en](https://github.com/xraymemory/bookstory-en) (German translation of Game strings)
+- [Lecrapouille/gdcef](https://github.com/Lecrapouille/gdcef) (Godot 3.4+ wrapper for CEF library)
 
 ### 🧰  Software Stack & preferred languages:
 _________________________________________
@@ -32,19 +33,13 @@ Programming languages:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" title="C#">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" title="JavaScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" title="TypeScript">
   <img src="https://godotengine.org/themes/godotengine/assets/press/icon_monochrome_dark.png" width="48" title="GDScript (Godot Engine)">
+  <img src="https://1000marken.net/wp-content/uploads/2021/01/Python-emblem.svg" width="48" title="Python">
 </p> 
-
-currently learning:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" width="48" title="C">
 
 ### 🖥️ Operating systems used:
 _________________________________________
 - Windows > XP & 7 & 10
-- a bit of MacOS, mainly 10.6 & 10.14
+- a bit of OS X, mainly 10.6 & 10.14
 
-Currently using: Win10 & Garuda GNOME
+Currently using: Win11 & Nobara Linux (Fedora) & RPiOS Lite (Debian11)
