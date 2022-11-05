@@ -3,6 +3,7 @@
 + Self-taught tinkerer/developer
 + Linux-Nerd (obsessed with shell scripts)
 + Also likes Visual Studio C# / VSCode(-ium)
++ professional data hoarder
 + living in Bavaria (Germany)
 
 <img align="right" src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif"/>
