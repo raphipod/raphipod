@@ -2,7 +2,7 @@
 
 + Self-taught tinkerer/developer
 + Linux-Nerd (obsessed with shell scripts)
-+ Also likes Visual Studio C# / VSCode(-ium)
++ Main code editor: VSCodium
 + professional data hoarder
 + living in Bavaria (Germany)
 
