@@ -44,4 +44,4 @@ _________________________________________
 - Windows > XP & 7 & 10
 - a bit of OS X, mainly 10.6 & 10.14
 
-Currently using: Win11 & Nobara Linux (Fedora) & RPiOS Lite (Debian11)
+Currently using: Nobara Linux & DietPi (Jellyfin on Pi3B+)
