@@ -15,12 +15,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphipod&layout=compact&langs_count=8&theme=onedark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=595E5D" />
 </a>
 
+### Co-Maintainer of:
+- [Lecrapouille/gdcef](https://github.com/Lecrapouille/gdcef) (Godot 3.4+ wrapper for CEF library)
+
 ### Contributed to:
 
 - [pop-os/popsicle](https://github.com/pop-os/popsicle) (German translation)
 - [pop-os/desktop-widget](https://github.com/pop-os/desktop-widget) (German translation)
 - [xraymemory/bookstory-en](https://github.com/xraymemory/bookstory-en) (German translation of Game strings)
-- [Lecrapouille/gdcef](https://github.com/Lecrapouille/gdcef) (Godot 3.4+ wrapper for CEF library)
 
 ### 🧰  Software Stack & preferred languages:
 _________________________________________
