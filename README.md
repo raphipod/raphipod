@@ -8,12 +8,18 @@
 
 <img align="right" src="https://media.tenor.com/images/ccb959edb41a02737755b2209ef7d97a/tenor.gif"/>
 
+<!---
+
+Doesn't work anymore. Pls fix...
+
+
 <a href="https://github.com/raphipod">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raphipod&count_private=true&show_icons=true&theme=onedark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=595E5D" />
 </a>
 <a href="https://github.com/raphipod">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphipod&layout=compact&langs_count=8&theme=onedark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=595E5D" />
 </a>
+-->
 
 ### Co-Maintainer of:
 - [Lecrapouille/gdcef](https://github.com/Lecrapouille/gdcef) (Godot 3.4+ wrapper for CEF library)
