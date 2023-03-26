@@ -49,6 +49,7 @@ Programming languages:
 _________________________________________
 - Windows > XP & 7 & 10
 - a bit of OS X, mainly 10.6 & 10.14
+- Arch, Fedora, Ubuntu...
 
 ### Current Computer Setup(s): 
 
