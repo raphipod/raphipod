@@ -50,4 +50,8 @@ _________________________________________
 - Windows > XP & 7 & 10
 - a bit of OS X, mainly 10.6 & 10.14
 
-Currently using: Nobara Linux & DietPi (Jellyfin on Pi3B+)
+### Current Computer Setup(s): 
+
+- Main PC: Nobara Linux KDE with Single-GPU-KVM running ReviOS 10 for gaming
+- Laptop: Nobara Linux GNOME (Minecraft Server/general use)
+- Raspberry Pi 3B+: DietPi with Jellyfin Media Server
