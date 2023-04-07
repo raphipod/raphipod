@@ -41,7 +41,7 @@ Programming languages:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" title="C#">
-  <img src="https://godotengine.org/themes/godotengine/assets/press/icon_monochrome_dark.png" width="48" title="GDScript (Godot Engine)">
+  <img src="https://godotengine.org/assets/press/icon_monochrome_dark.png" width="48" title="GDScript (Godot Engine)">
   <img src="https://1000marken.net/wp-content/uploads/2021/01/Python-emblem.svg" width="48" title="Python">
 </p> 
 
@@ -53,6 +53,6 @@ _________________________________________
 
 ### Current Computer Setup(s): 
 
-- Main PC: Nobara Linux KDE with Single-GPU-KVM running ReviOS 10 for gaming
-- Laptop: Nobara Linux GNOME (Minecraft Server/general use)
+- Main PC: Nobara Linux KDE
+- Laptop: Nobara Linux KDE (Minecraft Server/general use)
 - Raspberry Pi 3B+: DietPi with Jellyfin Media Server
