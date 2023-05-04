@@ -20,6 +20,10 @@ Doesn't work anymore. Pls fix...
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphipod&layout=compact&langs_count=8&theme=onedark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=595E5D" />
 </a>
 -->
+##
+
+### Maintainer of:
+- Project Walhalla (WIP)
 
 ### Co-Maintainer of:
 - [Lecrapouille/gdcef](https://github.com/Lecrapouille/gdcef) (Godot 3.4+ wrapper for CEF library)
