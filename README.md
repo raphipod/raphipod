@@ -23,7 +23,8 @@ Doesn't work anymore. Pls fix...
 ##
 
 ### Maintainer of:
-- Minecraft Modpacks: Caramel & MCVLK
+- Minecraft Modpack Caramel
+
 ### Co-Maintainer of:
 - [Lecrapouille/gdcef](https://github.com/Lecrapouille/gdcef) (Godot 3.4+ wrapper for CEF library)
 
