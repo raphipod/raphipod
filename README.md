@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Raphipod!
 
 + Self-taught tinkerer/developer
-+ Linux-Nerd (obsessed with shell scripts)
-+ Main code editor: VSCodium
++ Linux nerd
++ Main code editor: Kate/VSCodium
 + professional data hoarder
 + living in Bavaria (Germany)
 
