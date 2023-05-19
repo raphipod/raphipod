@@ -57,6 +57,6 @@ _________________________________________
 
 ### Current Computer Setup(s): 
 
-- Main PC: EndeavourOS KDE
-- Laptop: Nobara GNOME (Minecraft Server/general use)
+- Main PC: Nobara KDE
+- Laptop: Nobara GNOME
 - Raspberry Pi 3B+: DietPi with Jellyfin Media Server
