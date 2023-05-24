@@ -57,6 +57,6 @@ _________________________________________
 
 ### Current Computer Setup(s): 
 
-- Main PC: Nobara KDE
-- Laptop: Nobara GNOME
-- Raspberry Pi 3B+: DietPi with Jellyfin Media Server
+- Main PC: [EndeavourOS](https://endeavouros.com/) KDE with [ReviOS 11](https://revi.cc/) QEMU/KVM w/ GPU passthrough
+- Laptop: [Nobara](https://nobaraproject.org/) GNOME
+- Raspberry Pi 3B+: [DietPi](https://dietpi.com/) with [Jellyfin Media Server](https://jellyfin.org/)
