@@ -57,6 +57,6 @@ _________________________________________
 
 ### Current Computer Setup(s): 
 
-- Main PC: [Nobara KDE](https://nobaraproject.org/)
+- Main PC: [Nobara KDE](https://nobaraproject.org/) -> R7 5700G / 32G RAM / RX6650XT
 - Laptop: 14" MBP M3 Pro with [macOS Sonoma](https://www.apple.com/macos/sonoma/)
 - Raspberry Pi 3B+: [DietPi](https://dietpi.com/) with [Jellyfin Media Server](https://jellyfin.org/)
