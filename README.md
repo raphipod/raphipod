@@ -44,6 +44,7 @@ _________________________________________
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" title="C#" align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png" width="48" title="GDScript (Godot Engine)" align="left">
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="48" title="Python" align="left">
+  <img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" width="48" title="Bash" align="left">
   <br><br>
 </p> 
 
