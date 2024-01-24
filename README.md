@@ -54,3 +54,5 @@ _________________________________________
 - OS X (10.6, 10.14, 14.2-)
 - Arch, Fedora, Debian (Ubuntu)...
 - ChromeOS Flex and FydeOS
+
+**Currently using:** [Nobara Linux](https://www.nobaraproject.org) for my main rig and a 14' MBPro M3 Pro
