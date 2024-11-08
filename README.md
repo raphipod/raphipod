@@ -21,12 +21,10 @@ Doesn't work anymore. Pls fix...
 -->
 
 ### Maintainer of:
-- Minecraft Modpack Caramel
-
-### Co-Maintainer of:
-- [Lecrapouille/gdcef](https://github.com/Lecrapouille/gdcef) (Godot 3.4+ wrapper for CEF library)
+- Minecraft Modpack "Caramel"
 
 ### Contributed to:
+- [Lecrapouille/gdcef](https://github.com/Lecrapouille/gdcef) (Documentation revamp and small Python bugfixing)
 - [EduApps-CDG/OpenDX](https://github.com/EduApps-CDG/OpenDX) (German translation)
 - [pop-os/popsicle](https://github.com/pop-os/popsicle) (German translation)
 - [pop-os/desktop-widget](https://github.com/pop-os/desktop-widget) (German translation)
@@ -42,7 +40,6 @@ _________________________________________
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" title="C#" align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png" width="48" title="GDScript (Godot Engine)" align="left">
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="48" title="Python" align="left">
   <img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" width="48" title="Bash" align="left">
   <br><br>
@@ -55,4 +52,4 @@ _________________________________________
 - Arch, Fedora, Debian (Ubuntu)...
 - ChromeOS Flex and FydeOS
 
-**Currently using:** [Nobara Linux](https://www.nobaraproject.org) for my main rig and a 14' MBPro M3 Pro
+**Currently using:** [Bazzite KDE](https://www.bazzite.gg) for my main rig and a 14″ MBPro M3 Pro
