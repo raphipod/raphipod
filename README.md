@@ -52,4 +52,4 @@ _________________________________________
 - Arch, Fedora, Debian (Ubuntu)...
 - ChromeOS Flex and FydeOS
 
-**Currently using:** [Bazzite KDE](https://www.bazzite.gg) for my main rig and a 14″ MBPro M3 Pro
+**Currently using:** Windows 11 LTSC IoT for my main rig and a 14″ MBPro M3 Pro with macOS 15
