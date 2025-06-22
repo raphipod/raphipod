@@ -29,6 +29,7 @@ Doesn't work anymore. Pls fix...
 - [pop-os/popsicle](https://github.com/pop-os/popsicle) (German translation)
 - [pop-os/desktop-widget](https://github.com/pop-os/desktop-widget) (German translation)
 - [xraymemory/bookstory-en](https://github.com/xraymemory/bookstory-en) (German translation of Game strings)
+- [CachyOS/chwd](https://github.com/CachyOS/chwd) (German translation)
 
 ### 🧰  Software Stack & preferred languages:
 _________________________________________
@@ -52,4 +53,4 @@ _________________________________________
 - Arch, Fedora, Debian (Ubuntu)...
 - ChromeOS Flex and FydeOS
 
-**Currently using:** Windows 11 LTSC IoT for my main rig and a 14″ MBPro M3 Pro with macOS 15
+**Currently using:** CachyOS for my main desktop rig and a 14″ MBPro M3 Pro with macOS 15
