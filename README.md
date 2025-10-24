@@ -44,7 +44,7 @@ _________________________________________
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="48" title="Python" align="left">
   <img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" width="48" title="Bash" align="left">
   <br><br>
-</p> 
+</p>
 
 ### 🖥️ Operating systems used:
 _________________________________________
@@ -54,3 +54,13 @@ _________________________________________
 - ChromeOS Flex and FydeOS
 
 **Currently using:** CachyOS for my main desktop rig and a 14″ MBPro M3 Pro with macOS 15
+
+### Proudly supporting:
+_________________________________________
+
+<p align="left">
+  <img src="https://kde.org/fundraisers/yearend2025/thanks_paypal/badge_konqi.png" width="256" title="Konqi's Supporter Badge" align="left">
+  <br><br>
+  The best Linux desktop and the future of computing.
+  If you are able to, support KDE - every penny helps!
+</p>
