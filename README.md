@@ -24,6 +24,7 @@ Doesn't work anymore. Pls fix...
 - Minecraft Modpack "Caramel"
 
 ### Contributed to:
+- [NLauncher/NostalgiaLauncherDesktop](https://github.com/NLauncher/NostalgiaLauncherDesktop) (German translation of UI elements & debug strings)
 - [Lecrapouille/gdcef](https://github.com/Lecrapouille/gdcef) (Documentation revamp and small Python bugfixing)
 - [EduApps-CDG/OpenDX](https://github.com/EduApps-CDG/OpenDX) (German translation)
 - [pop-os/popsicle](https://github.com/pop-os/popsicle) (German translation)
