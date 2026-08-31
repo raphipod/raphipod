@@ -54,7 +54,7 @@ _________________________________________
 - Arch, Fedora, Debian (Ubuntu)...
 - ChromeOS Flex and FydeOS
 
-**Currently using:** CachyOS for my main desktop rig and a 14″ MBPro M3 Pro with macOS 15
+**Currently using:** Bazzite for my main desktop rig and a 14″ MBPro M3 Pro with macOS 27
 
 ### Proudly supporting:
 _________________________________________
